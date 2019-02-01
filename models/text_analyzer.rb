@@ -24,6 +24,8 @@ class TextAnalyzer
     arr = s1.split('')
     arr1 = arr.uniq
     arr2 = {}
+    arr1.map do |c|
+    end
   end
 
 end
