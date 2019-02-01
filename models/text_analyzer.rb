@@ -27,6 +27,9 @@ class TextAnalyzer
     arr1.map do |c|
       arr2[c] = arr.count(c)
     end
+    biggest = { arr2.keys.first => arr2.values.first}
+    arr2.each do |key, value|
+    end
   end
 
 end
