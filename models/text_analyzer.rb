@@ -11,4 +11,7 @@ class TextAnalyzer
     words.count
   end
 
+  def count_of_vowels
+  end
+
 end
