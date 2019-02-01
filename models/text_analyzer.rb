@@ -19,4 +19,7 @@ class TextAnalyzer
     text.scan(/bcdfghjklmnpqrstuvwxyz/).count
   end
 
+  def most_used_letter
+  end
+
 end
